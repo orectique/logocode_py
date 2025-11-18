@@ -1,5 +1,4 @@
 .coveragerc
-.gitignore
 .readthedocs.yml
 AUTHORS.rst
 CHANGELOG.rst
@@ -28,4 +27,6 @@ src/logocode.egg-info/requires.txt
 src/logocode.egg-info/top_level.txt
 src/logomod/__init__.py
 src/logomod/model.py
+src/logomod/__pycache__/__init__.cpython-313.pyc
+src/logomod/__pycache__/model.cpython-313.pyc
 tests/conftest.py
